@@ -3,5 +3,5 @@
 # Recomendador_de_peliculas
 
 Autores: Jhon Anderson Amaya Lopez, Jose David Silva Solano, Luis Alejandro Vecino Daza
+"Recomendar una película es compartir una emoción, una lección, una chispa de humanidad."
 
-# "Recomendar una película es compartir una emoción, una lección, una chispa de humanidad."
